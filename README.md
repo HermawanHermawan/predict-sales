@@ -22,9 +22,7 @@ As for the evaluation, we will follow the evaluation metric set by Kaggle, namel
 
 PROJECT STEPS
 
-1. Importing the data and preparing it for modelling
-2. Parsing dates
+1. Exploratory Data Analyis
+2. Parsing Dates
 3. Sort DataFrame by saledate
-4. Make a copy of the original DataFrame
-5. Add datetime parameters for saledate column
 
