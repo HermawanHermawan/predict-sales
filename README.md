@@ -25,4 +25,13 @@ PROJECT STEPS
 1. Exploratory Data Analyis
 2. Parsing Dates
 3. Sort DataFrame by saledate
-
+4. Add datetime parameter for saledate column
+5. Converting Columns containing string into categories
+6. Filling Missing Values
+7. Modeling
+8. Building an evaluation function
+9. Hyperparameters Tuning with RandomizedSearchCV
+10. Train a model with the best hyperparameters
+11. Preprocessing the test dataset
+12. Make predictions on test data
+13. Finding Feature Importance
